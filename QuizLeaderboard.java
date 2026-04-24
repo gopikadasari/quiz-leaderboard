@@ -4,7 +4,7 @@ import java.util.*;
 
 public class QuizLeaderboard {
 
-    static final String REG_NO = "RA231103010379";
+    static final String REG_NO = "RA2311003010379";
     static final String BASE_URL = "https://devapigw.vidalhealthtpa.com/srm-quiz-task";
 
     public static void main(String[] args) throws Exception {
